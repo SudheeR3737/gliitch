@@ -13,6 +13,3 @@
 <p align="center">
   <a href="https://nodei.co/npm/glitch-client/"><img src="https://nodei.co/npm/glitch-client.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
-
-
-#This repository is a modified version of Poru lavalink Client made by Paras
