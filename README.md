@@ -13,3 +13,4 @@
 <p align="center">
   <a href="https://nodei.co/npm/glitch-client/"><img src="https://nodei.co/npm/glitch-client.png?downloads=true&downloadRank=true&stars=true"></a>
 </p>
+This repo is a modified version of https://github.com/parasop i made these changes to use it on my own lol
